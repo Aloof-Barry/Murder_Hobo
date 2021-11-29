@@ -1,0 +1,41 @@
+
+
+Design Plan
+
+Switch to DND ruleset
+
+    change stats and how they interact with attacks
+        attributes*
+            hp base off of con
+            increase by class hit die and con every level
+        AC *
+            monsters have armor and wpns equiped
+            monsters drop equipment and inventory
+        to hit roll on bumps
+
+
+    change the 2 weapons
+        roll weapon damage
+
+    Armor
+        gives ac instead of DR
+
+
+    generate doors
+        around the outside perimeter of the rectangle
+            randomly doesnt place doors
+        make like walls
+        o to open action, tile becomes opened door
+        c to close action
+            add bump action later
+
+    create a tool that you can use to draw a dungeon with your mouse and export the grid coordinates for making the tiles render.
+
+    assign gold value to items
+    assign weight value to items
+        change inventory restrictions to be based on weight ( leave the number limit for now until we fix the inv menu to accomadate more items
+            related to strength
+            add item drop item changes inv weight
+            a way to scroll or go to next page of large player inventory
+
+    command to show only equiped items
