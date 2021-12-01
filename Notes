@@ -2,7 +2,9 @@
 
 Design Plan
 
-Switch to DND ruleset
+
+
+
 
     change stats and how they interact with attacks
         attributes*
@@ -19,6 +21,16 @@ Switch to DND ruleset
 
     Armor
         gives ac instead of DR
+
+--------------------------------------------------------------------------------------------------------
+
+Leveling
+    Hp is based off of CON
+    Hp increase every level
+    Base attack increases with level
+    increase 1 attribute every 4 levels
+
+
 
 
     generate doors
